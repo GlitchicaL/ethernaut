@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
-    "@openzeppelin/contracts": "^3.4.1"
+    "@openzeppelin/contracts-3": "npm:@openzeppelin/contracts@^3.4.1",
+    "@openzeppelin/contracts-4": "npm:@openzeppelin/contracts@^4.9.3"
   }
 }
